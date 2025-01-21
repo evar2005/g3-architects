@@ -205,8 +205,14 @@ footer{
   .cards{
     margin-bottom: 20px;
   }
-  .banner-content ,
-  footer ,
+  .banner-content{
+    margin: 20px auto;
+    text-align: center;
+    max-width: 100%;
+  }
+  .title{
+    font-size: 2.5rem;
+  }
   .features-img img{
     max-width: 100%;
     margin-left: 0;
